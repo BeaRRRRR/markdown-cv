@@ -1,86 +1,74 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kedzel Mikahil's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kedzel Mikhail
+Software Engineer, Web Designer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="isaac@applesdofall.org">mishanx873@gmail.com</a>
+| <a href="https://github.com/BeaRRRRR">My github repo</a>
+| <a href="linkedin.com/in/mikhail-kedel">My linkedin</a>
 </div>
 
 
-## Currently
+## Summary
 
-Standing on the shoulders of giants
+Have a year of experience in creating progressive web applications with JavaScript, Html, Css. Proficient in node.js with over 1.5 years of experience in it.Familiar with preprocessors.
 
-### Specialized in
+### Skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+HTML, CSS, JavaScript, Node.js, Express, Next.js, Git
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`09/2010 - now`
+__Gymnasium #2, Grodno__
 
 
-
-## Awards
+## Certificates
 
 `2012`
-President, *Royal Society*, London, UK
+A certificate of successful completion of a JavaScript internship, *IntexSoft*, Grodno 
 
-Associate, *French Academy of Science*, Paris, France
+<a href="https://javaops.ru/reg/topjava"> A certificate of successful completion of a Java online internship </a>
+
+First diploma at an regional English olympiad, Grodno
 
 
 
-## Publications
+## Code Examples
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### <a href="https://github.com/BeaRRRRR/spa">Online publishing platform</a>
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2019`
+An online publising platform made as an Single Page Application using Jquery and Express.js, bundles using webpack and babel.User authentication using passport.js
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### <a href="https://github.com/BeaRRRRR/alexaDiscord-js">A discord bot</a>
+`08/2018`
+A discord bot made using Node.js, which can play videos using YouTube API, show a random gif or a random image from reddit
 
 
-## Occupation
+## Experience
 
-`1600`
-__Royal Mint__, London
+`04/2019 – 07/2019`
+__JavaScript Internship__
+<a href="https://docs.google.com/document/d/1bXZYl3FyTU_Y8ougTLdbRiwXZsYhbzp8UrsB6e0b4_w/">(*Course of the internship*)</a>
 
-- Warden
-- Minted coins
+- Made a single page application on my own
 
 `1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__Automated testing internship__
+<a href="https://docs.google.com/document/d/1k8s_Qw2Ma89ZYhqlszRVIvSrLRD3rOqBuYYN4U2bYYc">(*Course of the internship*)</a>
+
+- Achieved a full test coverage of a todo-list application
+
+### English
+
+I have been learning English for over 10 years, and since 2017 with a private tutor.So I can express my thoughts freely and understand even the most complex sentences,I consider my level of English to be C1.
 
 
 
