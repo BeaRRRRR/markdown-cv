@@ -6,9 +6,11 @@ title: Kedzel Mikahil's CV
 Software Engineer, Web Designer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">mishanx873@gmail.com</a>
-| <a href="https://github.com/BeaRRRRR">My github repo</a>
-| <a href="linkedin.com/in/mikhail-kedel">My linkedin</a>
+mishanx873@gmail.com
+| <a href="https://github.com/BeaRRRRR">Github repo</a>
+| <a href="linkedin.com/in/mikhail-kedel">LinkedIn</a>
+| <a href="https://join.skype.com/invite/lUINe2J7Idrh">Skype</a>
+| Telegram : @mikhail_kedzel
 </div>
 
 
@@ -29,11 +31,12 @@ __Gymnasium #2, Grodno__
 
 ## Certificates
 
-`2012`
+`04/2019 - 07/2019`
 A certificate of successful completion of a JavaScript internship, *IntexSoft*, Grodno 
 
 <a href="https://javaops.ru/reg/topjava"> A certificate of successful completion of a Java online internship </a>
 
+`01/2019`
 First diploma at an regional English olympiad, Grodno
 
 
@@ -44,8 +47,10 @@ First diploma at an regional English olympiad, Grodno
 
 ### <a href="https://github.com/BeaRRRRR/spa">Online publishing platform</a>
 
-`2019`
-An online publising platform made as an Single Page Application using Jquery and Express.js, bundles using webpack and babel.User authentication using passport.js
+`06/2019 - 07/2019`
+An online publising platform made as an Single Page Application <br>
+using Jquery and Express.js,bundled using webpack and babel.<br> 
+User authentication using passport.js
 
 ### <a href="https://github.com/BeaRRRRR/alexaDiscord-js">A discord bot</a>
 `08/2018`
@@ -60,7 +65,7 @@ __JavaScript Internship__
 
 - Made a single page application on my own
 
-`1600`
+`11/2018 - 02/2019`
 __Automated testing internship__
 <a href="https://docs.google.com/document/d/1k8s_Qw2Ma89ZYhqlszRVIvSrLRD3rOqBuYYN4U2bYYc">(*Course of the internship*)</a>
 
