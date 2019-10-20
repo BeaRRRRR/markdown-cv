@@ -6,9 +6,11 @@ title: Kedzel Mikahil's CV
 Software Engineer, Web Designer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">mishanx873@gmail.com</a>
-| <a href="https://github.com/BeaRRRRR">My github repo</a>
-| <a href="linkedin.com/in/mikhail-kedel">My linkedin</a>
+mishanx873@gmail.com
+| <a href="https://github.com/BeaRRRRR">Github repo</a>
+| <a href="linkedin.com/in/mikhail-kedel">LinkedIn</a>
+| <a href="https://join.skype.com/invite/lUINe2J7Idrh">Skype</a>
+| Telegram : @mikhail_kedzel
 </div>
 
 
